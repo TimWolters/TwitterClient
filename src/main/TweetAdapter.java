@@ -4,7 +4,7 @@ package main;
 import java.util.ArrayList;
 
 import model.Tweet;
-import twitter.main.R;
+import android.R;
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;

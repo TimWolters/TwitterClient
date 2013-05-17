@@ -3,7 +3,7 @@ package main;
 import java.util.ArrayList;
 
 import model.Tweet;
-import twitter.main.R;
+import android.R;
 import android.app.Activity;
 import android.content.Context;
 import android.os.Bundle;
